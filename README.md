@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Rotana
 
-I'm an aspiring **penetration tester** and cybersecurity enthusiast. I enjoy diving into networks, breaking things (ethically), and learning how to secure systems from real-world threats. My passion for tech also extends into space, physics, and engineering.
+I'm just a beginner.
+I want to become a penetration tester. I like exploring networks, finding weak spots (in a legal way), and learning how to protect systems from real threats. I also love tech, especially space, physics, and engineering.
 
 ---
 

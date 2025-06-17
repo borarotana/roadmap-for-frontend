@@ -219,7 +219,7 @@ A practical roadmap to learn UX/UI Design — from beginner to job-ready, with r
 
 ---
 
-## 🧠 16/1. What is UX/UI?
+## 🧠 16.1. What is UX/UI?
 
 **UX (User Experience)**: How a user feels when using a product  
 **UI (User Interface)**: What the user sees and interacts with  
@@ -229,7 +229,7 @@ UI is about visuals, colors, typography.
 
 ---
 
-## 🧩 16/2. Design Thinking Process
+## 🧩 16.2. Design Thinking Process
 
 1. **Empathize** – Understand the user
 2. **Define** – Identify problems
@@ -239,7 +239,7 @@ UI is about visuals, colors, typography.
 
 ---
 
-## 🧭 16/3. User Experience (UX)
+## 🧭 16.3. User Experience (UX)
 
 - User research (interviews, surveys)
 - User personas
@@ -250,7 +250,7 @@ UI is about visuals, colors, typography.
 
 ---
 
-## 🎨 16/4. User Interface (UI)
+## 🎨 16.4. User Interface (UI)
 
 - Layouts and alignment
 - Spacing and white space
@@ -261,7 +261,7 @@ UI is about visuals, colors, typography.
 
 ---
 
-## 🛠 16/5. Design Tools
+## 🛠 16.5. Design Tools
 
 | Tool | Use |
 |------|-----|
@@ -273,7 +273,7 @@ UI is about visuals, colors, typography.
 
 ---
 
-## ✏️ 16/6. Wireframing & Prototyping
+## ✏️ 16.6. Wireframing & Prototyping
 
 - **Low-fidelity wireframes** – basic layout
 - **High-fidelity mockups** – visual design
@@ -281,7 +281,7 @@ UI is about visuals, colors, typography.
 
 ---
 
-## 🎨 16/7. Visual Design
+## 🎨 16.7. Visual Design
 
 - Grids and spacing
 - Visual hierarchy
@@ -291,7 +291,7 @@ UI is about visuals, colors, typography.
 
 ---
 
-## 🧱 16/8. Design Systems
+## 🧱 16.8. Design Systems
 
 - Style guides
 - Component libraries (cards, buttons, alerts)
@@ -300,7 +300,7 @@ UI is about visuals, colors, typography.
 
 ---
 
-## ♿ 16/9. Accessibility
+## ♿ 16.9. Accessibility
 
 - Color contrast
 - Keyboard navigation
@@ -310,7 +310,7 @@ UI is about visuals, colors, typography.
 
 ---
 
-## 🧳 16/10. Projects & Portfolio
+## 🧳 16.10. Projects & Portfolio
 
 ### Beginner Projects:
 - App login page (mobile + desktop)
@@ -331,7 +331,7 @@ UI is about visuals, colors, typography.
 
 ---
 
-## 🎁 16/11. Bonus
+## 🎁 16.11. Bonus
 
 - Learn about **Frontend (HTML/CSS)** to understand implementation
 - Practice with **FrontendMentor.io**
@@ -340,7 +340,7 @@ UI is about visuals, colors, typography.
 
 ---
 
-## 📚 16/12. Resources
+## 📚 16.12. Resources
 
 - [Figma Learn](https://help.figma.com/)
 - [UX Design Guide](https://www.interaction-design.org/)

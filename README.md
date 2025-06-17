@@ -28,6 +28,7 @@ This is for myself and everyone.
 13. [Performance](#-13-performance-optimization)
 14. [CS Fundamentals (Optional)](#-14-computer-science-fundamentals-optional)
 15. [Portfolio & Projects](#-15-portfolio--projects)
+16. [UX/UI Design Roadmap](#-16-ux/ui--design)
 
 ---
 
@@ -203,10 +204,171 @@ Axios + Vite
 Git + GitHub
 Deployed with Netlify or Vercel
 
+# 🎨 16.UX/UI Design Roadmap
+
+A practical roadmap to learn UX/UI Design — from beginner to job-ready, with real project ideas.
+
+---
+
+## 📚 Table of Contents
+
+1. [What is UX/UI?](#-1-what-is-uxui)
+2. [Design Thinking](#-2-design-thinking-process)
+3. [UX Basics](#-3-user-experience-ux)
+4. [UI Basics](#-4-user-interface-ui)
+5. [Design Tools](#-5-design-tools)
+6. [Wireframing & Prototyping](#-6-wireframing--prototyping)
+7. [Visual Design](#-7-visual-design)
+8. [Design Systems](#-8-design-systems)
+9. [Accessibility](#-9-accessibility)
+10. [Portfolio & Projects](#-10-projects--portfolio)
+11. [Bonus](#-11-bonus)
+12. [Resources](#-12-resources)
+
+---
+
+## 🧠 16/1. What is UX/UI?
+
+**UX (User Experience)**: How a user feels when using a product  
+**UI (User Interface)**: What the user sees and interacts with  
+
+UX is about structure, flow, usability.  
+UI is about visuals, colors, typography.
+
+---
+
+## 🧩 16/2. Design Thinking Process
+
+1. **Empathize** – Understand the user
+2. **Define** – Identify problems
+3. **Ideate** – Brainstorm solutions
+4. **Prototype** – Build low-fi versions
+5. **Test** – Get user feedback and improve
+
+---
+
+## 🧭 16/3. User Experience (UX)
+
+- User research (interviews, surveys)
+- User personas
+- User journey mapping
+- Information architecture
+- Flowcharts and sitemaps
+- Usability testing
+
+---
+
+## 🎨 16/4. User Interface (UI)
+
+- Layouts and alignment
+- Spacing and white space
+- Color theory and contrast
+- Typography
+- Icons and components
+- Responsive design (mobile, tablet, desktop)
+
+---
+
+## 🛠 16/5. Design Tools
+
+| Tool | Use |
+|------|-----|
+| **Figma** | UI design, prototyping |
+| Adobe XD | Design and prototype |
+| Sketch (Mac) | UI design |
+| Whimsical / Miro | Flowcharts, wireframes |
+| Notion / FigJam | Notes and collaboration |
+
+---
+
+## ✏️ 16/6. Wireframing & Prototyping
+
+- **Low-fidelity wireframes** – basic layout
+- **High-fidelity mockups** – visual design
+- **Prototypes** – interactive version for testing
+
+---
+
+## 🎨 16/7. Visual Design
+
+- Grids and spacing
+- Visual hierarchy
+- Component reuse (buttons, navbars)
+- Shadow, depth, blur effects
+- Animations (microinteractions)
+
+---
+
+## 🧱 16/8. Design Systems
+
+- Style guides
+- Component libraries (cards, buttons, alerts)
+- Atomic design method
+- Design tokens (spacing, colors, typography)
+
+---
+
+## ♿ 16/9. Accessibility
+
+- Color contrast
+- Keyboard navigation
+- ARIA labels
+- Text size and readability
+- Focus states
+
+---
+
+## 🧳 16/10. Projects & Portfolio
+
+### Beginner Projects:
+- App login page (mobile + desktop)
+- Landing page
+- Pricing table UI
+- Mobile profile page
+
+### Intermediate Projects:
+- Dashboard design
+- To-do app flow (UX + UI)
+- Food delivery app
+- Booking flow (flight/train)
+
+### Advanced Projects:
+- Full SaaS website UX/UI
+- Design System in Figma
+- Clone popular app (Spotify, Duolingo, Instagram)
+
+---
+
+## 🎁 16/11. Bonus
+
+- Learn about **Frontend (HTML/CSS)** to understand implementation
+- Practice with **FrontendMentor.io**
+- Pair with a developer to build your designs
+- Learn basic usability heuristics (Jakob Nielsen’s)
+
+---
+
+## 📚 16/12. Resources
+
+- [Figma Learn](https://help.figma.com/)
+- [UX Design Guide](https://www.interaction-design.org/)
+- [Checklist Design](https://www.checklist.design/)
+- [UI Design Daily](https://uidesigndaily.com/)
+- [Mobbin](https://mobbin.com/) – real app UI inspiration
+- [Dribbble](https://dribbble.com/) – designer portfolio
+- [Behance](https://www.behance.net/) – projects and portfolios
+
+---
+
+> ✨ _Design isn’t how it looks. It’s how it works._ – Steve Jobs
+
+
 ## 📫 Connect with Me
 
 - Email: [rotanaastro@gmail.com]
 - LinkedIn: [***] *(not yep)*
+- Discord: borarotana
+- Youtube: @bOrARoTanAA
 - GitHub: [github.com/borarotana](https://github.com/borarotana)
 
 ---

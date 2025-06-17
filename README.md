@@ -204,18 +204,18 @@ A practical roadmap to learn UX/UI Design — from beginner to job-ready, with r
 
 ## 📚 Table of Contents
 
-[16.1. What is UX/UI?](#161-what-is-uxui)  
-[16.2. Design Thinking](#162-design-thinking)  
-[16.3. UX Basics](#163-ux-basics)  
-[16.4. UI Basics](#164-ui-basics)  
-[16.5. Design Tools](#165-design-tools)  
-[16.6. Wireframing & Prototyping](#166-wireframing--prototyping)  
-[16.7. Visual Design](#167-visual-design)  
-[16.8. Design Systems](#168-design-systems)  
-[16.9. Accessibility](#169-accessibility)  
-[16.10. Portfolio & Projects](#1610-portfolio--projects)  
-[16.11. Bonus](#1611-bonus)  
-[16.12. Resources](#1612-resources)  
+16.1. [What is UX/UI?](#161-what-is-uxui)  
+16.2. [Design Thinking](#162-design-thinking)  
+16.3. [UX Basics](#163-ux-basics)  
+16.4. [UI Basics](#164-ui-basics)  
+16.5. [Design Tools](#165-design-tools)  
+16.6. [Wireframing & Prototyping](#166-wireframing--prototyping)  
+16.7. [Visual Design](#167-visual-design)  
+16.8. [Design Systems](#168-design-systems)  
+16.9. [Accessibility](#169-accessibility)  
+16.10. [Portfolio & Projects](#1610-portfolio--projects)  
+16.11. [Bonus](#1611-bonus)  
+16.12. [Resources](#1612-resources)    
 
 ---
 

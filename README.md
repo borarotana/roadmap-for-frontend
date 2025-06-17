@@ -29,7 +29,7 @@ This is for myself and everyone.
 13. [Performance](#-13-performance-optimization)
 14. [CS Fundamentals (Optional)](#-14-computer-science-fundamentals-optional)
 15. [Portfolio & Projects](#-15-portfolio--projects)
-16. [UX/UI Design Roadmap](#-16-ux/ui--design)
+16. [UX/UI Design Roadmap](#-16-uxui--design)
 
 ---
 
@@ -204,18 +204,18 @@ A practical roadmap to learn UX/UI Design — from beginner to job-ready, with r
 
 ## 📚 Table of Contents
 
-1. [What is UX/UI?](#-1-what-is-uxui)
-2. [Design Thinking](#-2-design-thinking-process)
-3. [UX Basics](#-3-user-experience-ux)
-4. [UI Basics](#-4-user-interface-ui)
-5. [Design Tools](#-5-design-tools)
-6. [Wireframing & Prototyping](#-6-wireframing--prototyping)
-7. [Visual Design](#-7-visual-design)
-8. [Design Systems](#-8-design-systems)
-9. [Accessibility](#-9-accessibility)
-10. [Portfolio & Projects](#-10-projects--portfolio)
-11. [Bonus](#-11-bonus)
-12. [Resources](#-12-resources)
+16/1. [What is UX/UI?](#-16/1-what-is-uxui)
+16/2. [Design Thinking](#-2-design-thinking-process)
+16/3. [UX Basics](#-3-user-experience-ux)
+16/4. [UI Basics](#-4-user-interface-ui)
+16/5. [Design Tools](#-5-design-tools)
+16/6. [Wireframing & Prototyping](#-6-wireframing--prototyping)
+16/7. [Visual Design](#-7-visual-design)
+16/8. [Design Systems](#-8-design-systems)
+16/9. [Accessibility](#-9-accessibility)
+16/10. [Portfolio & Projects](#-10-projects--portfolio)
+16/11. [Bonus](#-11-bonus)
+16/12. [Resources](#-12-resources)
 
 ---
 

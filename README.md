@@ -196,16 +196,7 @@ This is for myself and everyone.
 
 ---
 
-## 🧭 Your Stack Might Look Like:
-
-```bash
-HTML + CSS + JavaScript
-React + Tailwind
-Axios + Vite
-Git + GitHub
-Deployed with Netlify or Vercel
-
-# 🎨 16.UX/UI Design Roadmap
+## 🎨 16.UX/UI Design Roadmap
 
 A practical roadmap to learn UX/UI Design — from beginner to job-ready, with real project ideas.
 
@@ -363,6 +354,15 @@ UI is about visuals, colors, typography.
 
 > ✨ _Design isn’t how it looks. It’s how it works._ – Steve Jobs
 
+## 🧭 Your Stack Might Look Like:
+
+```bash
+HTML + CSS + JavaScript
+React + Tailwind
+Axios + Vite
+Git + GitHub
+Deployed with Netlify or Vercel
+UX/UI
 
 ## 📫 Connect with Me
 

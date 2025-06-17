@@ -29,7 +29,7 @@ This is for myself and everyone.
 13. [Performance](#-13-performance-optimization)
 14. [CS Fundamentals (Optional)](#-14-computer-science-fundamentals-optional)
 15. [Portfolio & Projects](#-15-portfolio--projects)
-16. [Go to UX/UI Design Roadmap](#-16uxui-design-roadmap)
+16. [UX/UI Design Roadmap](#-16uxui-design-roadmap)
 
 ---
 

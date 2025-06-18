@@ -1,10 +1,10 @@
-# My First Web Project
+# 📁 My First Web Project
 This is a basic website I built using HTML, CSS, and JavaScript.  
 The goal is to learn how to build and structure web pages.
 
 ---
 
-## Features
+## 📚 Features
 - Responsive design
 - Simple layout
 - Interactive elements (like buttons or forms)
@@ -12,17 +12,18 @@ The goal is to learn how to build and structure web pages.
 ---
 
 ## 📸 Screenshots
+![Website Screenshot](imagesscreenshot.png)
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 - HTML
 - CSS
 - JavaScript
 
 ---
 
-## How to Run
+## 🧪 How to Run
 
 Just open `index.html` in your browser.
 

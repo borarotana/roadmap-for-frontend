@@ -12,7 +12,7 @@ The goal is to learn how to build and structure web pages.
 ---
 
 ## 📸 Screenshots
-![Website Screenshot](imagesscreenshot.png)
+![Website Screenshot](images/Screenshot.png)
 
 ---
 

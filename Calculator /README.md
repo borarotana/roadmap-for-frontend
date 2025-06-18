@@ -12,7 +12,7 @@ The goal is to learn how to build and structure web pages.
 ---
 
 ## 📸 Screenshots
-![Website Screenshot](images/Screenshot.png)
+![Website Screenshot](https://github.com/borarotana/roadmap-for-learnweb/tree/Learn-Web-Front-End-My_Project/Calculator%20/images)
 
 ---
 

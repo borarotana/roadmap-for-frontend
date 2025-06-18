@@ -1,4 +1,4 @@
-# 📁 My First Web Project
+# 📁 My Calculator Project
 This is a basic calculator website I built using HTML, CSS, and JavaScript.  
 The goal is to learn how to build and structure web pages.
 

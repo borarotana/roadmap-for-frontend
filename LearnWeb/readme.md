@@ -1,5 +1,5 @@
 # 📁 My First Web Project
-This is a basic website I built using HTML, CSS, and JavaScript.  
+This is a basic calculator website I built using HTML, CSS, and JavaScript.  
 The goal is to learn how to build and structure web pages.
 
 ---

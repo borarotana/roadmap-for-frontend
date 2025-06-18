@@ -31,15 +31,12 @@ I made this to practice what I’m learning and to have a place where I can shar
 
 ![Screenshot](images/your-photo.png)
 
-> Replace with a screenshot of your site if you like!
-
 ---
 
 ## 🔗 Live Site
 
 Visit the site here:  
 👉 [https://your-username.github.io/LearnWeb/](https://your-username.github.io/LearnWeb/)  
-_(replace with your actual link)_
 
 ---
 
@@ -60,4 +57,15 @@ _(replace with your actual link)_
 ---
 
 ## 📁 Project Structure
+LearnWeb/
+├──html/
+   ├── index.html
+   ├── projects.html
+   ├── contact.html
+├── style.css
+├── script.js
+└── images/
+└── your-photo.png
+---
 
+Thanks for checking it out! ✌️

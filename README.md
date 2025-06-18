@@ -214,7 +214,7 @@ A practical roadmap to learn UX/UI Design — from beginner to job-ready, with r
 8. [Design Systems](#-168-design-systems)
 9. [Accessibility](#-169-accessibility)
 10. [Portfolio & Projects](#-1610-projects--portfolio)
-11. [Bonus](#-11-bonus)
+11. [Bonus](#-1611-bonus)
 12. [Resources](#-1612-resources)
 
 ---
@@ -354,19 +354,11 @@ UI is about visuals, colors, typography.
 
 > ✨ _Design isn’t how it looks. It’s how it works._ – Steve Jobs
 
-## 🧭 Your Stack Might Look Like:
+---
 
-```bash
-HTML + CSS + JavaScript
-React + Tailwind
-Axios + Vite
-Git + GitHub
-Deployed with Netlify or Vercel
-UX/UI
+## 📫 Connect with me
 
-## 📫 Connect with Me
-
-- Email: [rotanaastro@gmail.com]
+- Email: dev.rotana@gmail.com
 - LinkedIn: [***] *(not yep)*
 - Discord: borarotana
 - Youtube: @bOrARoTanAA

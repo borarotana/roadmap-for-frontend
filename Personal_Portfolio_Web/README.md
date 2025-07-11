@@ -27,16 +27,10 @@ I made this to practice what I’m learning and to have a place where I can shar
 
 ---
 
-## 📷 Screenshot
-
-![Screenshot](images/your-photo.png)
-
----
-
 ## 🔗 Live Site
 
 Visit the site here:  
-👉 [https://your-username.github.io/LearnWeb/](https://your-username.github.io/LearnWeb/)  
+👉 [https://borarotana.github.io/LearnWeb/](https://borarotana.github.io/LearnWeb/)  
 
 ---
 
@@ -55,17 +49,4 @@ Visit the site here:
 - Make it multilingual (English + Khmer 🇰🇭)
 
 ---
-
-## 📁 Project Structure
-LearnWeb/
-├──html/
-   ├── index.html
-   ├── projects.html
-   ├── contact.html
-├── style.css
-├── script.js
-└── images/
-└── your-photo.png
----
-
 Thanks for checking it out! ✌️
